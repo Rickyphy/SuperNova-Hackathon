@@ -1,5 +1,7 @@
 # SuperNova-Hackathon
 
+## Team Name: The Trinity 😎
+
 # 🌊 FloodRecon: AI-Powered Flood Hazard Detection System
 
 > *"From Sky to Safety — Real-time Disaster Intelligence Through Drone Vision"*
